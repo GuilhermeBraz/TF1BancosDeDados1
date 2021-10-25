@@ -2,7 +2,7 @@
 --
 --                    SCRIPT DE CRIACAO (DDL)
 --
--- Data Criacao ...........: 15/09/2021
+-- Data Criacao ...........: 25/10/2021
 -- Autor(es) ..............: Antonio Ruan Moura Barreto e Guilherme Verissimo Cerveira Braz
 -- Banco de Dados .........: MySQL 8.0
 -- Base de Dados (nome) ...: TF1AntonioBarreto
