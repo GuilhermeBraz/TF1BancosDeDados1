@@ -1,11 +1,11 @@
--- -------- <<  TF1AntonioBarreto - TRABALHO FINAL TEMA 1 >> ----------
+-- -------- <<  AntonioBarreto - TRABALHO FINAL TEMA 1 >> ----------
 --
 --                    SCRIPT APAGA (DDL)
 --
 -- Data Criacao ...........: 25/10/2021
 -- Autor(es) ..............: Antonio Ruan Moura Barreto e Guilherme Verissimo Cerveira Braz
 -- Banco de Dados .........: MySQL 8.0
--- Base de Dados (nome) ...: TF1AntonioBarreto
+-- Base de Dados (nome) ...: AntonioBarreto
 --
 --
 -- PROJETO => 01 Base de Dados
@@ -15,7 +15,7 @@
 
 -- BASE DE DADOS
 
-USE TF1AntonioBarreto;
+USE AntonioBarreto;
 
 -- TABELAS
 DROP TABLE aloca;
